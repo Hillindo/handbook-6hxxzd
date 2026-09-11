@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Hillindo.github.io/handbook-6hxxzd/sitemap.xml
